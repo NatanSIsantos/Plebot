@@ -1,6 +1,7 @@
 import re
 import os
-from flask import Flask, jsonify
+from flask import Flask
+from interacoes import *
 import web
 
 
@@ -35,23 +36,6 @@ def Main():
         if(listPos == listLen - 1 or listPos == listLen - 2 or
                 listPos == listLen - 3 or listPos == listLen - 4):
             exit(1)
-
-    '''
-    RESPOSTAS DO PLEBOT
-    '''
-    # Saudações
-    listResponses = [[r'boa tarde', "Saudações nobre cliente"],
-                     [r'boa noite', "Saudações nobre cliente"],
-                     [r'bom dia', "Saudações nobre cliente"],
-                     [r'eae', "Saudações nobre cliente"],
-                     [r'olá', "Saudações nobre cliente"],
-                     [r'ola', "Saudações nobre cliente"],
-                     [r'oi', "Saudações nobre cliente"],
-                     # Despedidas
-                     [r'até mais', "Volte sempre que quiser o melhor produto"],
-                     [r'até a próxima', "Até a próxima, forasteiro..."],
-                     [r'adeus', "Que os deuses lhe guiem!"],
-                     [r'tchau', "Vá pela sombra jovem!"]]
 
     '''
     FLUXO DO PLEBOT
