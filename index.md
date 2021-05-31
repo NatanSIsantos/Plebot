@@ -13,12 +13,18 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 
 
 ### Time de desenvolvimento
-```
-<div class = "round-container">
-  <img src = "/imgs/mr.jfif">
-  Murillo Acácio</img>
-</div>
-```
+
+<h1><span>ice dream</span></h1>
+
+<figure>
+  <div class="round-container">
+    <img src="/img/mr.jfif">
+  </div>
+  <figcaption>
+    Murillo Acácio
+  </figcaption>
+</figure>
+
 <img src = "/imgs/nl.jfif">
 Natanael Mota</img>
 <img src = "/imgs/nt.jfif">
