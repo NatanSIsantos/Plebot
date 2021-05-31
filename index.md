@@ -19,8 +19,8 @@ sua barriga redonda não fará desfeito.
 
 Venham meus guerreiros, minhas bárbaras e feiticeiros, 
 venham até mesmo os plebeus de nossos reinos parceiros. 
-Pois o constructo feito aqui não há igual. Nesses tempos de 
-peste, é o isolamento social.
+Pois o constructo feito aqui não há igual. Nesses tempos 
+de peste, é o isolamento social.
 
 Se duvidas apareça e prove por si, mas não esqueça de 
 agradecer ao constructo Plebot ao sair.
