@@ -26,7 +26,7 @@ def Main():
     def verifyMessage(message, question, response):
         verify = re.search(question, message, re.IGNORECASE)
         if (verify):
-            return "<h1>"+response+"</h1>"
+            return "<h1>"+response+"</hi>"
 
     # controla o fluxo de mensagens do plebot
     def plebotMessage(message):
@@ -38,7 +38,7 @@ def Main():
                 break
 
         if (check == 'false'):
-            return "<h1>Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria.</h1>"
+            return "<h1>Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria.</hi>"
 
     # controla quando a conversação deve terminar
     def plebotExit(listLen, listPos):
