@@ -1,4 +1,4 @@
-![plebotlog](/imgs/logoplebot.png)
+<img src = "https://natansisantos.github.io/Plebot/imgs/logoplebot.png" text-align = "center">
 
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
@@ -36,8 +36,8 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 
 ### Time de desenvolvimento
 
-<p><img src = "https://natansisantos.github.io/Plebot/imgs/mr.png" text-align = "center"><br>Murillo Acácio<br></p>
-<p><img src = "https://natansisantos.github.io/Plebot/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
-<p><img src = "https://natansisantos.github.io/Plebot/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
-<p><img src = "https://natansisantos.github.io/Plebot/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
-<p><img src = "https://natansisantos.github.io/Plebot/imgs/pc.png" text-align = "center"><br>Paulo Cativo<br></p>
+<img src = "https://natansisantos.github.io/Plebot/imgs/mr.png" text-align = "center"><br>Murillo Acácio<br></img>
+<img src = "https://natansisantos.github.io/Plebot/imgs/nl.png" text-align = "center"><br>Natanael Mota<br>
+<img src = "https://natansisantos.github.io/Plebot/imgs/nt.png" text-align = "center"><br>Natan Santos<br>
+<img src = "https://natansisantos.github.io/Plebot/imgs/pl.png" text-align = "center"><br>Paulo André<br>
+<img src = "https://natansisantos.github.io/Plebot/imgs/pc.png" text-align = "center"><br>Paulo Cativo<br>
