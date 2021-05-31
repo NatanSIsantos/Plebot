@@ -36,11 +36,11 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 
 ### Time de desenvolvimento
 
-<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/mr.png"><br>Murillo Acácio<br><a></a></p>
-<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nl.png"><br>Natanael Mota<br>Email: ndmf.snf19@uea.edu.br</p>
-<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nt.png"><br>Natan Santos<br>Email: nsds.snf19@uea.edu.br</p>
-<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pl.png"><br>Paulo André<br>Email: pacf.snf19@uea.edu.br</p>
-<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pc.png"><br>Paulo Cativo<br><a></a></p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/mr.png"><br>Nome : Murillo Acácio<br>Email: mdla.snf19@uea.edu.br</p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nl.png"><br>Nome : Natanael Mota<br>Email: ndmf.snf19@uea.edu.br</p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nt.png"><br>Nome : Natan Santos<br>Email: nsds.snf19@uea.edu.br</p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pl.png"><br>Nome : André<br>Email: pacf.snf19@uea.edu.br</p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pc.png"><br>Nome : Cativo<br>Email: perc.eng18@uea.edu.br</p>
 
-### Time de desenvolvimento
+### HEROKU
 <a href="https://plebotchatbot.herokuapp.com/">plebotchatbot.herokuapp.com/</a>
