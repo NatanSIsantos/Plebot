@@ -33,6 +33,6 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
   </figcaption>
 </figure>
 
-<img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></img>
-<img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></img>
-<img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></img>
+<p><img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
+<p><img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
+<p><img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
