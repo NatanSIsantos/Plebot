@@ -1,19 +1,19 @@
 ## Seja Bem-Vindo Viajante!
 
-<h4>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</h4>
+<h6>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</h6>
 
-<h4>Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.</h4> 
-<h4>Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.</h4>
+<h6>Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.</h6> 
+<h6>Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.</h6>
 
-<h4>Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos melhores alquimistas.</h4>
-<h4>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</h4>
+<h6>Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos melhores alquimistas.</h6>
+<h6>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</h6>
 
-<h4>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </h4>
-<h4>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</h4>
+<h6>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </h6>
+<h6>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</h6>
 
-<h4>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</h4>
+<h6>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</h6>
 
-<h4>Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.</h4>
+<h6>Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.</h6>
 
 ### Sobre o Plebot
 
