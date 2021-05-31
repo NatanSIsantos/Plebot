@@ -36,8 +36,8 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 
 ### Time de desenvolvimento
 
-<img src = "https://natansisantos.github.io/Plebot/imgs/mr.png" text-align = "center"><br>Murillo Acácio<br></img>
-<img src = "https://natansisantos.github.io/Plebot/imgs/nl.png" text-align = "center"><br>Natanael Mota<br>
-<img src = "https://natansisantos.github.io/Plebot/imgs/nt.png" text-align = "center"><br>Natan Santos<br>
-<img src = "https://natansisantos.github.io/Plebot/imgs/pl.png" text-align = "center"><br>Paulo André<br>
-<img src = "https://natansisantos.github.io/Plebot/imgs/pc.png" text-align = "center"><br>Paulo Cativo<br>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/mr.png"><br>Murillo Acácio<br><a></a></p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nl.png"><br>Natanael Mota<br><a></a></p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/nt.png"><br>Natan Santos<br><a href="nsds.snf19@uea.edu"></a></p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pl.png"><br>Paulo André<br><a></a></p>
+<p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pc.png"><br>Paulo Cativo<br><a></a></p>
