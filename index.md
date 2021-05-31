@@ -11,6 +11,17 @@ Colocar o link para o heroku no lugar desse markdown
 
 O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temática medieval, cujo funcionamento foi baseado no chatbot elisa e desenvolvido em Python a fins de aprendizagem.
 
-### Time de desenvolvimento
 
-![Image](/imgs/mr.jfif)  ![Image](/imgs/nl.jfif)  ![Image](/imgs/nt.jfif)  ![Image](/imgs/pl.jfif)
+### Time de desenvolvimento
+```
+<div class = "round-container">
+  <img src = "/imgs/mr.jfif">
+  Murillo Acácio</img>
+</div>
+```
+<img src = "/imgs/nl.jfif">
+Natanael Mota</img>
+<img src = "/imgs/nt.jfif">
+Natan Santos</img>
+<img src = "/imgs/pl.jfif">
+Paulo André</img>
