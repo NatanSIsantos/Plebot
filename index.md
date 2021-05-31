@@ -1,3 +1,4 @@
+## 
 ## Seja Bem-Vindo Viajante!
 
 <p>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</p>
@@ -17,11 +18,10 @@
 
 ### Sobre o Plebot
 
-O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temática medieval, cujo funcionamento foi baseado no chatbot elisa e desenvolvido em Python a fins de aprendizagem.
+O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temática medieval, cujo funcionamento foi baseado no chatbot eliza e desenvolvido em Python a fins de aprendizagem.
 
 
 ### Time de desenvolvimento
-
 <figure>
   <div class="round-container">
     <img src="/imgs/mr.png">
@@ -31,9 +31,6 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
   </figcaption>
 </figure>
 
-<img src = "/imgs/nl.png">
-Natanael Mota</img>
-<img src = "/imgs/nt.png">
-Natan Santos</img>
-<img src = "/imgs/pl.png">
-Paulo André</img>
+<img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></img>
+<img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></img>
+<img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></img>
