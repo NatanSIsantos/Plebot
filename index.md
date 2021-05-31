@@ -49,13 +49,9 @@ style com css
   </figcaption>
 </figure>
 ```
-<p><img src = "/imgs/mr.png" width="120" height="120" text-align = "center"><br>Murillo Acácio<br></p>
+<p><img src = "/imgs/mr.png"  text-align = "center"><br>Murillo Acácio<br></p>
 <p><img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
 <p><img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
 <p><img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
 <p><img src = "/imgs/pc.png" text-align = "center"><br>Paulo Cativo<br></p>
-![Murillo](/imgs/mr.png)
-![Natanael](/imgs/nl.png)
-![Natan](/imgs/nt.png)
-![Paulo](/imgs/pl.png)
-![PauloC](/imgs/pc.png)
+
