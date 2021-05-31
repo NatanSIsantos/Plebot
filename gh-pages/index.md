@@ -1,4 +1,4 @@
-<img src= "/imgs/plebottmp.png" >
+![Wllppr](/gh-pages/imgs/plebottmp.png)
 
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
@@ -49,12 +49,12 @@ style com css
   </figcaption>
 </figure>
 ```
-<p><img src = "/imgs/mr.png" text-align = "center"><br>Murillo Acácio<br></p>
-<p><img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
-<p><img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
-<p><img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
+<p><img src = "/gh-pages/imgs/mr.png" text-align = "center"><br>Murillo Acácio<br></p>
+<p><img src = "/gh-pages/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
+<p><img src = "/gh-pages/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
+<p><img src = "/gh-pages/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
 
-![Murillo](/imgs/mr.png)
-![Natanael](/imgs/nl.png)
-![Natan](/imgs/nt.png)
-![Paulo](/imgs/pl.png)
+![Murillo](/gh-pages/imgs/mr.png)
+![Natanael](/gh-pages/imgs/nl.png)
+![Natan](/gh-pages/imgs/nt.png)
+![Paulo](/gh-pages/imgs/pl.png)
