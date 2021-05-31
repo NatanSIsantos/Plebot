@@ -1,1 +1,1 @@
-web: python plebot.py
+web: python webbot.py
