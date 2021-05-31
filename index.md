@@ -1,4 +1,4 @@
-![plebotlog](/imgs/plebottmp.png)
+![plebotlog](/imgs/logoplebot.png)
 
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
