@@ -9,7 +9,7 @@
 <p>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</p>
 
 <p>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </p>
-<h6>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</p>
+<p>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</p>
 
 <p>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</p>
 
