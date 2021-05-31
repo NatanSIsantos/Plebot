@@ -1,11 +1,20 @@
 import re
 import os
-from flask import Flask
+from flask import Flask, request, render_template
 from interacoes import *
-import web
 
 
 app = Flask(__name__)
+
+@app.route('/')
+def my_form():
+    return render_template('my-form.html')
+
+
+@app.route('/', methods=['POST'])
+def web_input():
+    text = request.form['text']
+    return text
 
 
 @app.route('/')
@@ -42,10 +51,11 @@ def Main():
     '''
 
     while(True):
-        message = web.input()
+        message = web_input()
         plebotMessage(message)
-
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
+
+Main()
