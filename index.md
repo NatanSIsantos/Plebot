@@ -3,20 +3,23 @@
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
 
-<p>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</p>
+```
+Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.
 
-<p>Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.</p> 
-<p>Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.</p>
+Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.
+Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.
 
-<p>Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos melhores alquimistas.</p>
-<p>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</p>
+Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos 
+melhores alquimistas. E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não 
+fará desfeito.
 
-<p>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </p>
-<p>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</p>
+Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. 
+Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.
 
-<p>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</p>
+Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.
 
-<p>Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.</p>
+Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.
+```
 
 ### Sobre o Plebot
 
@@ -40,3 +43,8 @@ tentativa de fazer foto redonda
 <p><img src = "/imgs/nl.png" text-align = "center"><br>Natanael Mota<br></p>
 <p><img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
 <p><img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
+
+![Murillo](/imgs/mr.png)
+![Natanael](/imgs/nl.png)
+![Natan](/imgs/nt.png)
+![Paulo](/imgs/pl.png)
