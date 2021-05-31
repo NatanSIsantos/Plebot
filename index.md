@@ -29,16 +29,16 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 
 <figure>
   <div class="round-container">
-    <img src="https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/mr.jfif">
+    <img src="https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/mr.png">
   </div>
   <figcaption>
     Murillo Acácio
   </figcaption>
 </figure>
 
-<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/nl.jfif">
+<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/nl.png">
 Natanael Mota</img>
-<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/nt.jfif">
+<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/nt.png">
 Natan Santos</img>
-<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/pl.jfif">
+<img src = "https://github.com/NatanSIsantos/Plebot/blob/gh-pages/imgs/pl.png">
 Paulo André</img>
