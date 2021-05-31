@@ -1,7 +1,0 @@
-.posts.round .round-container img {
-  width: auto;
-  height: 100%;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
