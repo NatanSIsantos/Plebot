@@ -1,4 +1,6 @@
 import re
+import unicodedata
+from webbot import *
 from interacoes import *
 
 '''
@@ -8,14 +10,20 @@ MÉTODOS DO PLEBOT
 def verifyMessage(message, question, response):
     verify = re.search(question, message, re.IGNORECASE)
     if (verify):
-        print(response)
+        print("PLEBOT:"+ response)
         return(True)
 
 # controla o fluxo de mensagens do plebot        
 def plebotMessage(message):
+
+    # removendo caracteres especiais
+    process = unicodedata.normalize("NFD", message)
+    process = process.encode("ascii", "ignore")
+    process = process.decode("utf-8")
+    
     check = 'false'
     for i in range(len(listResponses)):
-        if(verifyMessage(message, listResponses[i][0], listResponses[i][1])):
+        if(verifyMessage(process, listResponses[i][0], listResponses[i][1])):
             check = 'true'
             plebotExit(len(listResponses), i)
             break
@@ -35,5 +43,5 @@ FLUXO DO PLEBOT
 '''
 
 while(True):
-    message = input()
+    message = input("\n>>>     ")
     plebotMessage(message)

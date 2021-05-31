@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+            .chat {
+                display: flex;
+                flex-direction: column;
+            }
+            .chat span {
+                margin-bottom: 10px;
+            }
+            form{
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="chat"></div>
+
+        <div>
+            <form>
+                <input type="text" placeholder="Insira a mensagem">
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+        <script>
+            window.onload = function()
+            {
+                const socket = io('http://127.0.0.1:5000');
+
+                socket.on('connect', () => {
+                    socket.send('Usuário conectado!')
+                });
+
+                document.querySelector("form").addEventListener("submit", function(event){
+                    event.preventDefault();
+                    socket.emit('sendMessage', {message: event.target[0].value})
+                    event.target[0].value = "";
+                })
+
+                socket.on('getMessage', (msg) => {
+                    const span = document.createElement("span");
+                    const chat = document.querySelector(".chat");
+                    span.innerHTML = `<strong>${msg.message}</strong>`;
+                    chat.append(span);
+                })
+
+
+            }
+        </script>
+    </body>
+</html>
