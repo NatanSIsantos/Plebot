@@ -1,24 +1,19 @@
 ## Seja Bem-Vindo Viajante!
 
-<text>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</text>
+<h5>Aos reinos vizinhos, nossa saudação! Pedimos agora, sua atenção.</h5>
 
-<text>Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.</text> 
-<text>Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.</text>
+<h5>Nestes tempos de praga o arquimago Plebius construiu uma solução para o taverneiro local.</h5> 
+<h5>Por meio deste pergaminho, desejamos comunicar que o local está aberto de novo para comer até se fartar.</h5>
 
-<text>Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos melhores alquimistas.</text>
-<text>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</text>
+<h5>Traga seu clã e aproveite experiências jamais vistas com poções de batatas mágicas preparadas por nossos melhores alquimistas.</h5>
+<h5>E se não der por satisfeito, peça um Rei Arthur, pois com sua barriga redonda não fará desfeito.</h5>
 
-<text>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </text>
-<text>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</text>
+<h5>Venham meus guerreiros, minhas bárbaras e feiticeiros, venham até mesmo os plebeus de nossos reinos parceiros. </h5>
+<h5>Pois o constructo feito aqui não há igual. Nesses tempos de peste, é o isolamento social.</h5>
 
-<text>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</text>
+<h5>Se duvidas apareça e prove por si, mas não esqueça de agradecer ao constructo Plebot ao sair.</h5>
 
-<text>Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.</text>
-
-```markdown
-Colocar o link para o heroku no lugar desse markdown
-[Link](url) and ![Image](src)
-```
+<h5>Puxe uma cadeira e sente-se onde quiser. Nosso constructo, o Plebot, irá lhe servir.</h5>
 
 ### Sobre o Plebot
 
