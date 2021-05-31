@@ -54,4 +54,4 @@ style com css
 <p><img src = "/imgs/nt.png" text-align = "center"><br>Natan Santos<br></p>
 <p><img src = "/imgs/pl.png" text-align = "center"><br>Paulo André<br></p>
 <p><img src = "/imgs/pc.png" text-align = "center"><br>Paulo Cativo<br></p>
-
+<p><img src = "/imgs/pc1.jpg" text-align = "center"><br>Paulo Cativo<br></p>
