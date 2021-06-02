@@ -22,10 +22,10 @@ listResponses = [[r'tarde|noite|dia|eae|ola|oi', " Saudações nobre cliente"],
                 [r'mistico| ancestral | deus', " Você deve está ouvindo coisas..."],
                 [r'terror|medo|horror|filosia|mente|louco|loucura|bebado|danca|dancandi', 
                 "Quase ninguém dança sóbrio, a não ser que esteja louco." 
-                "\n       A ironia raramente está ausente, mesmo no maior dos horrores."
-                "\n       A coisa mais misericordiosa do mundo é, ao meu ver, a incapacidade"
-                "\n       da mente humana em correlacionar tudo o que sabe. O mundo é deveras" 
-                "\n       cômico, mas a piada está na raça humana."],
+                "<br>       A ironia raramente está ausente, mesmo no maior dos horrores."
+                "<br>       A coisa mais misericordiosa do mundo é, ao meu ver, a incapacidade"
+                "<br>       da mente humana em correlacionar tudo o que sabe. O mundo é deveras" 
+                "<br>       cômico, mas a piada está na raça humana."],
 
                 [r'bebida|para beber|pra beber|para tomar|pra tomar',
                 " Ainda não temos nada, acabou o rum e só tem água"],
