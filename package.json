@@ -1,0 +1,14 @@
+{
+"scripts": {
+    "start": "webbot.py",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+},
+
+"about": {
+    "name": "plebotchatbot",
+    "description": "um chatbot de tematica medieval",
+    "version": "1.0.0"
+}
+}
