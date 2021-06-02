@@ -19,5 +19,5 @@ def plebotMessage(message):
         if (verify):
             return({'message': "PLEBOT:" + listResponses[i][1]})
 
-    return({'message': "Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
+    return({'message': "PLEBOT: Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
 
