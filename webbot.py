@@ -26,5 +26,6 @@ def send_message_handler(msg):
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
+    print(port)
     io.run(app, port=port)
 
