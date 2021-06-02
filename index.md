@@ -1,5 +1,8 @@
 <img src = "https://natansisantos.github.io/Plebot/imgs/logoplebot.png" text-align = "center">
 
+### HEROKU
+<button type="button" href="https://plebotchatbot.herokuapp.com/">Ir até o Plebot/</a>
+
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
 
@@ -42,5 +45,4 @@ O PLEBOT é um chatbot simples que finge ser um atendente de uma loja com temát
 <p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pl.png"><br>Nome: Paulo André<br>Email: pacf.snf19@uea.edu.br</p>
 <p  text-align = "center"><img src = "https://natansisantos.github.io/Plebot/imgs/pc.png"><br>Nome: Paulo Cativo<br>Email: perc.eng18@uea.edu.br</p>
 
-### HEROKU
-<a href="https://plebotchatbot.herokuapp.com/">plebotchatbot.herokuapp.com/</a>
+
