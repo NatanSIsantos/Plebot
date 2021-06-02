@@ -8,6 +8,7 @@ verify_ssl = true
 
 Flask = "*"
 Flask-SocketIO = "*"
+python-socketio = "*"
 
 [requires]
 
