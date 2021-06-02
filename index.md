@@ -1,7 +1,7 @@
 <img src = "https://natansisantos.github.io/Plebot/imgs/logoplebot.png" text-align = "center">
 
 ### HEROKU
-   <button type="button" href="https://plebot-chatbot.herokuapp.com/">Ir até o Plebot</button>
+   <a href="https://plebot-chatbot.herokuapp.com/"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Conversar com Plebot</button></a>
 
 <h2>  </h2>
 ## Seja Bem-Vindo Viajante!
