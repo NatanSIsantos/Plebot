@@ -20,7 +20,7 @@ listResponses = [[r'tarde|noite|dia|eae|ola|oi', " Saudações nobre cliente"],
                 [r'505', " 505? Nem temos tantos andares assim haha, eu estava brincando..."],
 
                 [r'mistico| ancestral | deus', " Você deve está ouvindo coisas..."],
-                [r'terror|medo|horror|filosia|mente|louco|loucura|bebado|danca|dancandi', 
+                [r'terror|medo|horror|filosofia|mente|louco|loucura|bebado|danca|dancandi', 
                 "Quase ninguém dança sóbrio, a não ser que esteja louco." 
                 "<br>       A ironia raramente está ausente, mesmo no maior dos horrores."
                 "<br>       A coisa mais misericordiosa do mundo é, ao meu ver, a incapacidade"
