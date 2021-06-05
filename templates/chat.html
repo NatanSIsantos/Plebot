@@ -8,6 +8,14 @@
     <link rel="manifest" href="https://natansisantos.github.io/Plebot/site.webmanifest">
     <meta charset="UTF-8">
     <style>
+        #center-text {          
+            display: flex;
+            flex: 1;
+            flex-direction:column; 
+            justify-content: center;
+            align-items: center;  
+            height:100%;
+        }
         .chat {
             display: flex;
             flex-direction: column;
@@ -24,6 +32,12 @@
 </head>
 
 <body>
+    <div id="center-text">
+        <h2>ChatBox UI</h2>
+        <p>Message send and scroll to bottom enabled </p>
+      </div> 
+    <div id="body">
+
     <div class="chat"></div>
 
     <div>
