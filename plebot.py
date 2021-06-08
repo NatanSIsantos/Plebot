@@ -17,7 +17,7 @@ def plebotMessage(message):
     for i in range(len(listResponses)):
         verify = re.search(listResponses[i][0], process, re.IGNORECASE)
         if (verify):
-            return({'message': "PLEBOT:<br>" + listResponses[i][1]})
+            return({'message': "PLEBOT<br>" + listResponses[i][1]})
 
-    return({'message': "PLEBOT: Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
+    return({'message': "PLEBOT<br>Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
 
