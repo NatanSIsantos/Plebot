@@ -43,4 +43,5 @@ listResponses = [[r'tarde|noite|dia|eae|ola|oi', " Saudações nobre cliente"],
                 [r'ate mais', " Volte sempre que quiser o melhor produto"],
                 [r'ate a proxima', " Até a próxima, forasteiro..."],
                 [r'adeus', " Que os deuses lhe guiem!"],
-                [r'tchau', " Vá pela sombra jovem!"]]
+                [r'tchau', " Vá pela sombra jovem!"],
+                [r'flw|flws', " Esses jovens... até mais!"]]
