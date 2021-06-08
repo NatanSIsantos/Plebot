@@ -6,9 +6,9 @@ listResponses = [[r'tarde|noite|dia|eae|ola|oi', " Saudações nobre cliente"],
 
                 [r'comida|cardapio|comer|a venda|o que tem',
                 " Aqui está o nosso cardápio:"
-                "\n       - Hambúrguer Rei Arthur      . 25 peças de ouro"
-                "\n       - Porção de batatas mágicas  . 10 peças de ouro"
-                "\n       - Esfirra secreta de cocatriz. 07 peças de ouro e 5 de prata"],
+                "<br>       - Hambúrguer Rei Arthur      . 25 peças de ouro"
+                "<br>       - Porção de batatas mágicas  . 10 peças de ouro"
+                "<br>       - Esfirra secreta de cocatriz. 07 peças de ouro e 5 de prata"],
 
                 [r'hamburguer|batata|esfirra', " Boa escolha forasteiro"],
                 [r'cocatriz|Porção|rei arthur', " Seu rango já vai sair"],
