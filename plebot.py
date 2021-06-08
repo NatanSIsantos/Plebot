@@ -19,5 +19,5 @@ def plebotMessage(message):
         if (verify):
             return({'message': "<div style='border: 1px solid #000000; background-color: #d5f4e6;'>PLEBOT<br></div>" + listResponses[i][1]})
 
-    return({'message': "PLEBOT<br>Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
+    return({'message': "<div style='border: 1px solid #000000; background-color: #d5f4e6;'>PLEBOT<br></div>Não entendo tais palavras, é melhor que você não esteja fazendo bruxaria."})
 
