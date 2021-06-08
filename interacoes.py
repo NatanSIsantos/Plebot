@@ -35,9 +35,9 @@ listResponses = [[r'tarde|noite|dia|eae|ola|oi', " Saudações nobre cliente"],
 
                 [r'caro', " Tenho que pagar minhas contas..."],
 
-                [r'conte um segredo', " A raposa desmaiou antes de chegar ao destino, correu muito naquela noite"],
-                [r'fale um segredo', " Naquele dia o padeiro ficou muito triste por não entregar seus pães"],
-                [r'diga um segredo', " O artesão entregou sua obra... mais e mais pedidos lhe ocupavam"],
+                [r'um segredo', " A raposa desmaiou antes de chegar ao destino, correu muito naquela noite"],
+                [r'algum segredo', " Naquele dia o padeiro ficou muito triste por não entregar seus pães"],
+                [r'seus segredos', " O artesão entregou sua obra... mais e mais pedidos lhe ocupavam"],
 
                 # Despedidas
                 [r'ate mais', " Volte sempre que quiser o melhor produto"],
